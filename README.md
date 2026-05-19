@@ -33,14 +33,6 @@ Experiment / Baseline / Compare
 
 ## Repository Structure
 #This is on going.
-monai-brats-sagemaker/
-├── README.md
-├── requirements.txt
-├── notebooks/
-├── src/
-├── configs/
-├── results/
-└── scripts/
 
 - src/  
   Python modules for training, preprocessing, and evaluation
