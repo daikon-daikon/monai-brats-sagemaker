@@ -1,7 +1,3 @@
-# monai-brats-sagemaker
-Medical image segmentation portfolio using MONAI, PyTorch, and Amazon SageMaker
-
-
 # MONAI BraTS 3D Segmentation on Amazon SageMaker
 ## Overview
 This repository is a portfolio project based on the MONAI BraTS 3D Segmentation workflow,
