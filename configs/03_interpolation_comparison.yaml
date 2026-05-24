@@ -1,0 +1,7 @@
+experiment_name: interpolation_comparison
+interpolation: nearest
+loss_function: DiceLoss
+pixdim:
+- 1.0
+- 1.0
+- 1.0

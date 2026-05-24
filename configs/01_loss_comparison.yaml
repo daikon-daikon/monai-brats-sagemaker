@@ -1,0 +1,7 @@
+experiment_name: loss_comparison
+interpolation: linear
+loss_function: DiceCELoss
+pixdim:
+- 1.0
+- 1.0
+- 1.0
