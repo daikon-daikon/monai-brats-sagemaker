@@ -32,7 +32,6 @@ Experiment / Baseline / Compare
 
 
 ## Repository Structure
-#This is on going.
 
 - src/  
   Python modules for training, preprocessing, and evaluation
