@@ -32,6 +32,10 @@ The following comparison experiments were conducted.
 | Image Spacing | pixdim=(1.0,1.0,1.0) | pixdim=(1.5,1.5,1.5) |
 | Interpolation Strategy | linear | nearest |
 
+Detailed experimental results:
+- [results/summary.md](results/summary.md)
+- [results/experiments/](results/experiments/)
+
 
 ## Repository Structure
 
