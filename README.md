@@ -28,7 +28,15 @@ The following comparison experiments were conducted.
 Experiment / Baseline / Compare
 1) Loss Function / DiceLoss / DiceCELoss
 2) Image Spacing / pixdim=(1.0,1.0,1.0) / pixdim=(1.5,1.5,1.5)
-3) Interpolation Strategy / nearest / linear 
+3) Interpolation Strategy / nearest / linear
+
+The following comparison experiments were conducted.
+
+| Experiment | Baseline | Compare |
+|---|---|---|
+| Loss Function | DiceLoss | DiceCELoss |
+| Image Spacing | pixdim=(1.0,1.0,1.0) | pixdim=(1.5,1.5,1.5) |
+| Interpolation Strategy | linear | nearest |
 
 
 ## Repository Structure
